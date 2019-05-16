@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "DDOS",
+"dataUrl": "jumpGL.data.unityweb",
+"asmCodeUrl": "jumpGL.asm.code.unityweb",
+"asmMemoryUrl": "jumpGL.asm.memory.unityweb",
+"asmFrameworkUrl": "jumpGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
